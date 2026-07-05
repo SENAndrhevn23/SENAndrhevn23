@@ -57,7 +57,7 @@ Regarding the HaxePixel drama: it has been going on for over a year. It started 
 - 🎵 **TikTok:** https://www.tiktok.com/@sen_andrhevn23
 - 🎧 **Spotify:** https://open.spotify.com/user/31dbzwswsito436pupfeyoyln7bi
 - 📧 **Hotmail:** AndreNicholasJr@hotmail.com
-- 📧 **Gmail:** pumpgaming2@gmail.com *(Please don't spam—this is my personal Gmail.)*
+- 📧 **Gmail:** pumpgaming2@gmail.com *(Please don't spam, this is my personal Gmail.)*
 - 💬 **Discord:** `sen_andrhevn23`
   - Friend requests are limited to people I know.
   - My DMs are open.
