@@ -124,4 +124,5 @@ To this day, Andre Nicholas Jr. hopes to meet his true father someday...
 * Andre!! :D
 * did you say haxepixel? BAN THAT SHIT NOW GET THAT BITCH OUT OF MY FACE
 * i dont even fuck noel wdym? what because i like HER? DOES not mean I LOVE HER wtf
+* andre why did you not like your own son :(
 
