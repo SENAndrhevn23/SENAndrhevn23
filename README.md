@@ -4,13 +4,39 @@
 
 I'm a programmer who often uses AI to help with projects, ideas, and development. My main focus is optimizing Friday Night Funkin' engines and making games run faster and smoother.
 
-## 🚀 Current Project
+# 🚀 Current Projects
 
-### A-Slice Engine
+## 🎵 A-Slice Engine
+
+**Repository:** https://github.com/SENAndrhevn23/A-Slice
 
 A-Slice is my personal modified version of the H-Slice engine, focused on optimization, performance improvements, and adding features that I enjoy working on.
 
-## 💻 About Me
+### Features
+
+* ⚡ Performance optimizations
+* 🎮 Friday Night Funkin' engine improvements
+* 🛠️ New quality-of-life features
+* 📈 Ongoing development
+
+---
+
+## 🤖 SMAR (SEN's Modded Active Ragdoll)
+
+**Repository:** https://github.com/SENAndrhevn23/SEN-S-Modded-Active-Ragdoll
+
+SMAR is my customized Active Ragdoll system for Roblox, focused on improving realism, customization, and gameplay while remaining easy to configure.
+
+### Features
+
+* 🦴 Active ragdoll physics
+* ⚙️ Highly customizable settings
+* 🎮 Built for Roblox experiences
+* 🚧 Constantly updated with new features
+
+---
+
+# 💻 About Me
 
 * 🛠️ FNF engine optimizer
 * 🤖 Uses AI to assist with coding and learning
