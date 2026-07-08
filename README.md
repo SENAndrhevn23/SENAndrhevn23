@@ -114,3 +114,14 @@ To this day, Andre Nicholas Jr. hopes to meet his true father someday...
 ## Andre Nicholas Jr Productions
 
 *"Optimize everything."*
+
+# Quotes
+
+* daddy jordan pwease come back :(
+* i dont have big black oily men kissing yet in my videos so no
+* where are the gay people kissing at (from school friend)
+* where are my femboys at
+* Andre!! :D
+* did you say haxepixel? BAN THAT SHIT NOW GET THAT BITCH OUT OF MY FACE
+* i dont even fuck noel wdym? what because i like HER? DOES not mean I LOVE HER wtf
+
