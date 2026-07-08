@@ -126,3 +126,4 @@ To this day, Andre Nicholas Jr. hopes to meet his true father someday...
 * i dont even fuck noel wdym? what because i like HER? DOES not mean I LOVE HER wtf
 * andre why did you not like your own son :(
 * watch me die to this telsa gate
+* ikelene is a baddie
