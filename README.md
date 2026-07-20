@@ -6,21 +6,6 @@ I'm a programmer who often uses AI to help with projects, ideas, and development
 
 # 🚀 Current Projects
 
-## 🎵 A-Slice Engine
-
-**Repository:** https://github.com/SENAndrhevn23/A-Slice
-
-A-Slice is my personal modified version of the H-Slice engine, focused on optimization, performance improvements, and adding features that I enjoy working on.
-
-### Features
-
-* ⚡ Performance optimizations
-* 🎮 Friday Night Funkin' engine improvements
-* 🛠️ New quality-of-life features
-* 📈 Ongoing development
-
----
-
 ## 🤖 SMAR (SEN's Modded Active Ragdoll)
 
 **Repository:** https://github.com/SENAndrhevn23/SEN-S-Modded-Active-Ragdoll
